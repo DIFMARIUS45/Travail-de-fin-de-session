@@ -1,0 +1,29 @@
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\bin\Debug\net8.0-windows\Frogger.exe
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\bin\Debug\net8.0-windows\Frogger.deps.json
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\bin\Debug\net8.0-windows\Frogger.runtimeconfig.json
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\bin\Debug\net8.0-windows\Frogger.dll
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\bin\Debug\net8.0-windows\Frogger.pdb
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.g.resources
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.Form1.resources
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.csproj.GenerateResource.cache
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.AssemblyInfoInputs.cache
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.AssemblyInfo.cs
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.dll
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\refint\Frogger.dll
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.pdb
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.genruntimeconfig.cache
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\ref\Frogger.dll
+C:\Users\GIBOUMAR\source\repos\Frogger\Frogger\obj\Debug\net8.0-windows\Frogger.Properties.Resources.resources
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.g.resources
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.Form1.resources
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.Properties.Resources.resources
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.csproj.GenerateResource.cache
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.AssemblyInfoInputs.cache
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.AssemblyInfo.cs
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.dll
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\refint\Frogger.dll
+C:\Users\GIBOUMAR\OneDrive - Cégep de l'Abitibi-Témiscamingue\20243\Programmation 3\Intro à C# - Jeux\Frogger - Etudiant\Frogger\obj\Debug\net8.0-windows\Frogger.pdb
