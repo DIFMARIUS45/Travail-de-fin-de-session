@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttrapeEtoile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbc94568cb3021d27cb15ba2b2ce4dc927f1025")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttrapeEtoile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttrapeEtoile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

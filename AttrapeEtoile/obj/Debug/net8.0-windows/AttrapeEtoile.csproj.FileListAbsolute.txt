@@ -1,0 +1,7 @@
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.Form1.resources
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\GitHub\Travail-de-fin-de-session\AttrapeEtoile\obj\Debug\net8.0-windows\AttrapeEtoile.sourcelink.json

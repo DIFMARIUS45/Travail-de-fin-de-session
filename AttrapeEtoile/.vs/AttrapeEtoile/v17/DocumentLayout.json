@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\",
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\attrapeetoile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:attrapeetoile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\etoilerose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:etoilerose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\etoilebleu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\etoilevert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:etoilevert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\etoilebleu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:etoilebleu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\etoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\attrapeetoile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:attrapeetoile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\etoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:etoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\hasard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\hasard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:hasard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\vaisseau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\vaisseau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:vaisseau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\objetmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\objetmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:objetmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\documents\\github\\travail-de-fin-de-session\\attrapeetoile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|c:\\users\\utilisateur\\source\\repos\\attrapeetoile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DCB4C62-9684-441F-8750-E8571548701E}|AttrapeEtoile.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,15 +58,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EtoileVert.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileVert.cs",
+              "RelativeDocumentMoniker": "EtoileVert.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileVert.cs",
+              "RelativeToolTip": "EtoileVert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:10:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EtoileRose.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileRose.cs",
+              "RelativeDocumentMoniker": "EtoileRose.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileRose.cs",
+              "RelativeToolTip": "EtoileRose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:09:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:49:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EtoileBleu.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\EtoileBleu.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileBleu.cs",
               "RelativeDocumentMoniker": "EtoileBleu.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\EtoileBleu.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\EtoileBleu.cs",
               "RelativeToolTip": "EtoileBleu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,89 +118,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Hasard.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Hasard.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Hasard.cs",
               "RelativeDocumentMoniker": "Hasard.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Hasard.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Hasard.cs",
               "RelativeToolTip": "Hasard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:22:49.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vaisseau.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Vaisseau.cs",
-              "RelativeDocumentMoniker": "Vaisseau.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Vaisseau.cs",
-              "RelativeToolTip": "Vaisseau.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:10:15.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Etoile.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Etoile.cs",
-              "RelativeDocumentMoniker": "Etoile.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Etoile.cs",
-              "RelativeToolTip": "Etoile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:04:16.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ObjetMobile.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\ObjetMobile.cs",
-              "RelativeDocumentMoniker": "ObjetMobile.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\ObjetMobile.cs",
-              "RelativeToolTip": "ObjetMobile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:56:42.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Direction.cs",
-              "RelativeDocumentMoniker": "Direction.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Direction.cs",
-              "RelativeToolTip": "Direction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:52:37.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:22:49.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Title": "Vaisseau.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Vaisseau.cs",
+              "RelativeDocumentMoniker": "Vaisseau.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Vaisseau.cs",
+              "RelativeToolTip": "Vaisseau.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:50:21.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:10:15.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AttrapeEtoile",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\AttrapeEtoile.csproj",
+              "DocumentIndex": 5,
+              "Title": "Etoile.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Etoile.cs",
+              "RelativeDocumentMoniker": "Etoile.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Etoile.cs",
+              "RelativeToolTip": "Etoile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:04:16.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjetMobile.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\ObjetMobile.cs",
+              "RelativeDocumentMoniker": "ObjetMobile.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\ObjetMobile.cs",
+              "RelativeToolTip": "ObjetMobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:56:42.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:52:37.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:50:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttrapeEtoile.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\AttrapeEtoile.csproj",
               "RelativeDocumentMoniker": "AttrapeEtoile.csproj",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\AttrapeEtoile.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\AttrapeEtoile.csproj",
               "RelativeToolTip": "AttrapeEtoile.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -154,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\AttrapeEtoile\\Form1.cs [Conception]",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\Travail-de-fin-de-session\\AttrapeEtoile\\Form1.cs [Conception]",
               "RelativeToolTip": "Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:26:50.128Z",
